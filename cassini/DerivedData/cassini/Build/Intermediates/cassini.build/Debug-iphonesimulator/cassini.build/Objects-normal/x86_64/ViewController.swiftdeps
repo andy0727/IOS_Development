@@ -1,0 +1,42 @@
+### Swift dependencies file v0 ###
+provides:
+- "ViewController"
+nominals:
+- "C7cassini14ViewController"
+class-members:
+- "prepareForSegue"
+top-level:
+- !private "StringLiteralType"
+- !private "DemoURL"
+- "AnyObject"
+- "UIViewController"
+- !private "ImageViewController"
+- "UIStoryboardSegue"
+- !private "~="
+member-access:
+- !private "VSs5Range"
+- "CSo16UIViewController"
+- !private "VV7cassini7DemoURL4nasa"
+- "CSo8NSObject"
+- !private "C7cassini19ImageViewController"
+- "C7cassini14ViewController"
+- !private "Sq"
+- "CSo11UIResponder"
+- !private "CSo17UIStoryboardSegue"
+- !private "CSo8NSString"
+- !private "VSs26_OptionalNilComparisonType"
+- "PSs9AnyObject"
+- !private "Sb"
+- !private "SS"
+- !private "V7cassini7DemoURL"
+dynamic-lookup:
+cross-module:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/Security.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/CoreImage.swiftmodule"

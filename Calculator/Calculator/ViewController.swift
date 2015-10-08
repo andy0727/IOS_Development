@@ -28,24 +28,35 @@ class ViewController: UIViewController
     }
     @IBAction func operate(sender: UIButton) {
         let operation=sender.currentTitle!
-        
+        if userIsInTheMiddleOfTyping {
+            enter()
+        }
         switch operation{
-        case "✖️":
-            if operandStack.count >= 2 {
-                displayValue=operandStack.removeLast()
-                enter(sender)
-            } 
-//        case "➗":
-//        case "➕":
-//        case "➖":
+        case "✖️": performOperatation {$0 * $1}
+        case "➗": performOperatation {$1 / $0}
+        case "➕": performOperatation {$0 + $1}
+        case "➖": performOperatation {$1 - $0}
+        case "√": performOperatation {sqrt($0)}
         default: break
         }
     }
     
+    func performOperatation(operation: (Double,Double) -> Double){
+        if operandStack.count >= 2 {
+            displayValue=operation(operandStack.removeLast() , operandStack.removeLast())
+            enter()
+        }
+    }
+    func performOperatation(operation: (Double) -> Double){
+        if operandStack.count >= 1 {
+            displayValue=operation(operandStack.removeLast())
+            enter()
+        }
+    }
     
     var operandStack = Array<Double>()
     
-    @IBAction func enter(sender: UIButton) {
+    @IBAction func enter() {
         userIsInTheMiddleOfTyping=false
         operandStack.append(displayValue)
         println("operandStack = \(operandStack)")

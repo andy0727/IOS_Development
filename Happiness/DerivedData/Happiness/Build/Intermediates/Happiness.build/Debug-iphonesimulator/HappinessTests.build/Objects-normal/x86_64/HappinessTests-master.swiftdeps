@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "e0b50ca9894e7eced464385c7540cbed"
+inputs: 
+- "/Users/andyzhu/Git/IOS_Development/Happiness/HappinessTests/HappinessTests.swift"

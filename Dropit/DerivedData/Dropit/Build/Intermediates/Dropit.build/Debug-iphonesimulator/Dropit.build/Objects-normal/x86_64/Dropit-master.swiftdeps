@@ -1,0 +1,7 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "147b1f2905497b330bd6b6199ca646f7"
+inputs: 
+- "/Users/andyzhu/Git/IOS_Development/Dropit/Dropit/BezierPathView.swift"
+- "/Users/andyzhu/Git/IOS_Development/Dropit/Dropit/DropItViewController.swift"
+- "/Users/andyzhu/Git/IOS_Development/Dropit/Dropit/AppDelegate.swift"
+- "/Users/andyzhu/Git/IOS_Development/Dropit/Dropit/DropItBehavior.swift"

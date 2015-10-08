@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "7c24efee2f88613928983cccb641a507"
+inputs: 
+- "/Users/andyzhu/Git/IOS_Development/cassini/cassiniTests/cassiniTests.swift"

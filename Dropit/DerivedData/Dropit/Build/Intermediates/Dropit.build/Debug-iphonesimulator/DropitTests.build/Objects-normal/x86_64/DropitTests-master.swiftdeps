@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "20da520b762f8c36fb39c2e951158e15"
+inputs: 
+- "/Users/andyzhu/Git/IOS_Development/Dropit/DropitTests/DropitTests.swift"

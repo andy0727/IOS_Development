@@ -1,0 +1,6 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "3ef80a7f7d207d7674f825d47e1cd500"
+inputs: 
+- "/Users/andyzhu/Git/IOS_Development/Autolayout/Autolayout/ViewController.swift"
+- "/Users/andyzhu/Git/IOS_Development/Autolayout/Autolayout/AppDelegate.swift"
+- "/Users/andyzhu/Git/IOS_Development/Autolayout/Autolayout/User.swift"

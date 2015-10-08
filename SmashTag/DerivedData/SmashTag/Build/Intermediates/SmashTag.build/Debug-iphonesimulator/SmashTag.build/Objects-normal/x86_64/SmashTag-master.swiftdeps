@@ -1,0 +1,10 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "7427cef36184bd0b56985e52115228d7"
+inputs: 
+- "/Users/andyzhu/Git/IOS_Development/SmashTag/SmashTag/AppDelegate.swift"
+- "/Users/andyzhu/Git/IOS_Development/SmashTag/SmashTag/Twitter/TwitterRequest.swift"
+- "/Users/andyzhu/Git/IOS_Development/SmashTag/SmashTag/Twitter/User.swift"
+- "/Users/andyzhu/Git/IOS_Development/SmashTag/SmashTag/TweetTableViewController.swift"
+- "/Users/andyzhu/Git/IOS_Development/SmashTag/SmashTag/Twitter/MediaItem.swift"
+- "/Users/andyzhu/Git/IOS_Development/SmashTag/SmashTag/Twitter/Tweet.swift"
+- "/Users/andyzhu/Git/IOS_Development/SmashTag/SmashTag/TweetTableViewCell.swift"

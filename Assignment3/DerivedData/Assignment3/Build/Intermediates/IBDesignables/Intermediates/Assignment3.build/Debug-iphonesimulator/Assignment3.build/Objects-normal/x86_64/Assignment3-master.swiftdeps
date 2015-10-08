@@ -1,0 +1,9 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "26b983b83a1a085353277ae0925355c7"
+inputs: 
+- "/Users/andyzhu/Git/IOS_Development/Assignment3/Assignment3/CalculatorBrain.swift"
+- "/Users/andyzhu/Git/IOS_Development/Assignment3/Assignment3/GraphViewController.swift"
+- "/Users/andyzhu/Git/IOS_Development/Assignment3/Assignment3/AxesDrawer.swift"
+- "/Users/andyzhu/Git/IOS_Development/Assignment3/Assignment3/CalculatorViewController.swift"
+- "/Users/andyzhu/Git/IOS_Development/Assignment3/Assignment3/AppDelegate.swift"
+- "/Users/andyzhu/Git/IOS_Development/Assignment3/Assignment3/GraphView.swift"

@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "964285396138d0285fbd26615185296e"
+inputs: 
+- "/Users/andyzhu/Git/IOS_Development/SmashTag/SmashTagTests/SmashTagTests.swift"

@@ -1,0 +1,6 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "5fddc3175c33650f6b8d052f93fd5e4f"
+inputs: 
+- "/Users/andyzhu/Git/IOS_Development/Happiness/Happiness/HappinessViewController.swift"
+- "/Users/andyzhu/Git/IOS_Development/Happiness/Happiness/AppDelegate.swift"
+- "/Users/andyzhu/Git/IOS_Development/Happiness/Happiness/FaceView.swift"
